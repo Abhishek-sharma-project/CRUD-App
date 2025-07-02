@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variable files
+.env
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Build output (if any)
+dist/
+build/
+
+# NPM package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# MongoDB dump folders (if used)
+dump/
+
+# Coverage reports (for testing)
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# EJS cache 
+*.ejs~
+
+# Misc
+*.tgz
+*.bak
+
+
+
